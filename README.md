@@ -8,6 +8,11 @@ cambio segundo de juan en el main
 cambio tercero de juan en el main
 
 cambio cuarto en develop de juan
+=======
+<<<<<<< HEAD
+cambio tercero de juan en el main
+
+cambio cuarto en develop de juan
 
 cambio cuarto en develop de juan
 =======
@@ -21,4 +26,10 @@ feature image
 
 develop birthday
 
+<<<<<<< HEAD
 feature form real
+=======
+feature form
+#feature markdown H1
+##feature markdown H2
+>>>>>>> develop

@@ -21,13 +21,8 @@ feature image
 
 develop birthday
 
-<<<<<<< HEAD
-feature form real
-=======
 feature form
 
 #feature markdown H1
 ##feature markdown H2
->>>>>>> develop
-
 <h1>Heading level 1</h1>

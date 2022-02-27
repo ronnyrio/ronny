@@ -8,6 +8,11 @@ cambio segundo de juan en el main
 cambio tercero de juan en el main
 
 cambio cuarto en develop de juan
+=======
+<<<<<<< HEAD
+cambio tercero de juan en el main
+
+cambio cuarto en develop de juan
 
 cambio cuarto en develop de juan
 =======
@@ -22,3 +27,6 @@ feature image
 develop birthday
 
 feature form
+>>>>>>> v1.1.0
+
+hotfix
